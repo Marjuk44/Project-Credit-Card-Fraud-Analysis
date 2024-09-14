@@ -19,7 +19,7 @@ Credit card fraud is a well known problem around the world. Although it is mostl
 - Total number if fraud transaction
 - Hourly Fraudelent transaction
 - Average transaction amount (fraud & non fraud)
-- The realtion of fraud amount and hour
+- A scatterplot to see the realtion of fraud amount in each hour
 
 ## Conclusion:
 - Total Transactions: ≈285K 
